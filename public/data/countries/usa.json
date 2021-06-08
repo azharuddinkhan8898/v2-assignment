@@ -1,0 +1,9 @@
+{
+  "states": ["Nevada", "Utah", "New Maxico", "Michigan"],
+  "districts": {
+    "Nevada": ["Provo", "Logan"],
+    "Utah": ["Reno", "Carson City"],
+    "New Maxico": ["Santa Fe", "Las Cruces"],
+    "Michigan": ["Chicago", "Milwaukee"]
+  }
+}

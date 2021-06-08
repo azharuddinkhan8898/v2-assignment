@@ -1,0 +1,9 @@
+{
+  "states": ["Maharashtra", "Gujarat", "Madhya Pradesh", "Goa"],
+  "districts": {
+    "Maharashtra": ["Mumbai", "Thane", "Ratnagiri"],
+    "Gujarat": ["Surat", "Ahmedabad", "Rajkot", "Vadodara"],
+    "Madhya Pradesh": ["Bhopal", "Indor"],
+    "Goa": ["Panji", "Margao"]
+  }
+}
